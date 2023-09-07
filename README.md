@@ -1,5 +1,5 @@
 # multiple_sum
-What is the sum of the multiples of 3 or 5 under 1000?
+What is the sum of the multiples of 3 or 5 below 1000?
 
 # Install & Use
 First clone the repo:
